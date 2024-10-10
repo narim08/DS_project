@@ -1,0 +1,10 @@
+LOAD
+ADD harry Potter	200	JK	1997
+ADD the Road	600	Cormac McCarthy	2006
+ADD the Road	600	Cormac McCarthy	2006
+SEARCH_BP dune
+SEARCH_BP d g
+PRINT_BP
+PRINT_ST 100
+DELETE
+EXIT

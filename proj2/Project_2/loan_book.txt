@@ -1,0 +1,7 @@
+1984	100	George Orwell	1949	0
+dune	100	Frank Herbert	1965	0
+educated	300	Tara Westover	2018	0
+gone girl	200	Gillian Flynn	2012	0
+it	400	Stephen King	1986	0
+sapiens	500	Yuval Noah Harari	2011	0
+the road	600	Cormac McCarthy	2006	0
